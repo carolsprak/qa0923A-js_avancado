@@ -1,0 +1,14 @@
+{
+  "name": "qa0923a-js_avancado",
+  "version": "1.0.0",
+  "description": "Programa para executar funções Java Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScrip"
+  ],
+  "author": "Anne Rocha",
+  "license": "ISC"
+}
